@@ -1,9 +1,9 @@
 [
   {
-    "CaseId": 484,
+    "CaseId": 1,
     "CreatedOn": "2026-01-13 13:19",
     "Description": "1 BASE ANNUAL Time Slice",
-    "EditedOn": "2026-01-13 13:19",
+    "EditedOn": "2026-01-20 18:12",
     "EndingYear": "2100",
     "FixResultFileName": "False",
     "FixResultInfo": {
@@ -37,20 +37,20 @@
       },
       "IsApplyFixResult": false
     },
-    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.8.3",
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.9.1",
     "Name": "B-TS1",
     "ParametricGroup": null,
     "ParametricGroupId": null,
     "PeriodsDefinition": "2024-2100-p10",
     "PropertiesGroup": "DefaultProperties",
-    "PropertiesGroupId": 533,
+    "PropertiesGroupId": 3,
     "RegionGroup": "AllRegion",
-    "RegionGroupId": 532,
+    "RegionGroupId": 2,
     "ScenarioGroup": "B-TS1",
-    "ScenarioGroupId": 562,
+    "ScenarioGroupId": 4,
     "Solver": "cplex",
     "SolverOptionFile": "BA121-7",
-    "UserName": "james",
+    "UserName": "annac",
     "ModelFramework": "Times"
   }
 ]
